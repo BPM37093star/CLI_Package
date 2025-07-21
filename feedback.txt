@@ -1,0 +1,14 @@
+Student Name: Zheng Pei 
+Matriculation Number: 24-747-818
+
+How long did this exercise take you?
+This programming exercise took me approximately six hours to complete.
+
+What were the main difficulties?
+The main challenges I encountered were:
+1. Problem Decomposition: Breaking down the overall problem into smaller, manageable sub-tasks required careful consideration. Determining the right level of granularity for each function was particularly challenging.
+2. Function Design: Creating specialized functions for each discrete functionality demanded clear understanding of their individual responsibilities. I struggled with defining precise function boundaries and ensuring each had a single, well-defined purpose.
+3. Parameter Integration: The most difficult aspect was coordinating all the function parameters and ensuring proper data flow between components. Maintaining consistency in parameter usage across multiple interdependent functions proved complex.
+
+Comments / other questions:
+Through this exercise, I've gained valuable experience in systematic problem decomposition and modular programming. The process highlighted the importance of careful planning before implementation and the value of iterative testing during development.
